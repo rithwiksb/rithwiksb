@@ -83,22 +83,6 @@ I'm a **Software Engineer** and **Machine Learning Enthusiast** passionate about
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rithwiksb&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rithwiksb&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=rithwiksb&theme=onedark&margin-w=10&margin-h=10&no-bg=true&no-frame=true"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=rithwiksb&theme=tokyonight&hide_border=true" height="160"/>
-</p>
-
----
 
 ## 🌐 Let's Connect
 <p align="center">
